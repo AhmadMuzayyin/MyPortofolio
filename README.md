@@ -1,11 +1,10 @@
 # WELCOME TO MY GITHUB
 
-This uses the hugo theme of somrat, Check out the details on somrat's github
+welcome to my github page. Please check the link below for more details about me.
 
 ## Materials and references
 
-- Clone the repo of somrat: 'git clone https://github.com/Somrat37/somrat.git'
-- [Download theme from Github](https://github.com/Somrat37/somrat/archive/master.zip)
+- [My Portofolio & my CV](https://ahmad-muzayyin.netlify.app).
 
 ## Thanks to
 
